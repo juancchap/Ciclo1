@@ -9,9 +9,9 @@ public class Ciclouno {
         
         int i;
         
-        for(i=1;i<=10;i++)
+        for(i=10;i>=10;i-=2)
         {
-            System.out.println("Hola mundo");
+            System.out.println("Hola mundo "+i);
         }
         
     }
